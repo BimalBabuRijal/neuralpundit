@@ -1,5 +1,5 @@
 {
-  "name": "AI Football Predictor",
+  "name": "Neural Pundit",
   "description": "An interactive dashboard utilizing advanced metrics like Expected Goals (xG), recent performance form, and head-to-head average goals to generate predictive outcomes and total goal probabilities.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

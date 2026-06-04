@@ -255,7 +255,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-xl font-bold font-display tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-100 to-slate-400">
-                AI Football Goal Predictor
+                Neural Pundit
               </h1>
               <p className="text-xs text-slate-400 flex items-center gap-1.5 font-mono">
                 <span className="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>

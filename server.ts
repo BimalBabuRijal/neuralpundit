@@ -351,7 +351,7 @@ Keep the tone highly professional, objective, precise, and authoritative (like a
   }
 
   app.listen(PORT, "0.0.0.0", () => {
-    console.log(`AI Football Predictor server started on http://0.0.0.0:${PORT}`);
+    console.log(`Neural Pundit server started on http://0.0.0.0:${PORT}`);
   });
 }
 
